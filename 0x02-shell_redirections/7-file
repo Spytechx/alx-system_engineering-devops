@@ -1,3 +1,2 @@
 #!/bin/bash
-echo -e  "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
-cat 'Best School' > /7-file/\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)/
+echo -e 'Best School' > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
